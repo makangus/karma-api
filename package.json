@@ -1,0 +1,16 @@
+{
+  "name": "karma-api",
+  "version": "0.0.0-1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "body-parser": "~1.0.0",
+    "mongoose": "~3.8.11"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
