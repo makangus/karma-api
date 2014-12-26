@@ -1,6 +1,6 @@
 KarmaAPI
 ========
-Simple node.js app to provide API to communicate with MongoDB, created for https://github.com/sirkitree/karmakruncher.
+Simple node.js app to provide API to communicate with MongoDB, created for [KarmaKruncher](https://github.com/sirkitree/karmakruncher).
 
 ### Installation
 	~$ git clone git@github.com:makangus/karma-api.git
